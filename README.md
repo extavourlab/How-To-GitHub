@@ -14,6 +14,11 @@ You can now create your own repository, or access other projects repos as well (
 
 When you create a repository, you have the option to make it public or private. A private repository is only visible by lab members and can be a good place to store your code as you move along your project. Once your project is finished, and you want to publish it, just change the settings to public !
 
+# How to use git
+To be honnest, git is a beatiful tool that is often missunderstood and very often missused and abused! Why ? Well because with those 30 minutes: https://www.youtube.com/watch?v=SWYqp7iY_Tc you can use git already, and save your code, stage files, collaborate with many etc. So if you have never used Git or a Version Control system, then head over there and watch it! It'll get you setup :D
+
+BUT what those 30 minutes won't teach you is the intricacy of Git, now those are learned by experience and hard lessons, but maybe this will get you a sense of where you can get to: https://www.youtube.com/watch?v=0SJCYPsef54
+
 # How to add a member
 For admin members that need to add members to the GitHub account, here is the procedure:
 
