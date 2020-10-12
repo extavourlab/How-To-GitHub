@@ -19,6 +19,8 @@ To be honnest, git is a beatiful tool that is often missunderstood and very ofte
 
 BUT what those 30 minutes won't teach you is the intricacy of Git, now those are learned by experience and hard lessons, but maybe this will get you a sense of where you can get to: https://www.youtube.com/watch?v=0SJCYPsef54
 
+If you want a CheatSheet that has all the command you are most likely going to use GitHub created a multi language page with CheatSheets ! https://training.github.com/ **They are really neat!** 
+
 # How to add a member
 For admin members that need to add members to the GitHub account, here is the procedure:
 
